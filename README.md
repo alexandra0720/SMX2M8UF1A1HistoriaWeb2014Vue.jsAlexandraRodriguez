@@ -1,6 +1,6 @@
 # SMX2-M8UF1A1-HistoriaWeb-2014-Vue.js-YeslinAlexandraRodriguezPineda
 
-## Presentación sobre Vue.js
+## Introducción a Vue.js
 
 - Vue.js es un framework progresivo de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
 - Fue creado por Evan You y se lanzó por primera vez en 2014.
