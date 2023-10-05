@@ -25,4 +25,5 @@ Vue.js tiene varias características clave:
 Vue.js es una opción poderosa y versátil para el desarrollo web.
 Su facilidad de uso y su comunidad activa hacen que sea una excelente elección para proyectos de cualquier tamaño.
 
+## Logo
 ![Imagen nueva](https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/logo.png "vue.js")
