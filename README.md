@@ -20,16 +20,5 @@ Vue.js tiene varias características clave:
 
 5. **Sistema de Plantillas**: Vue.js utiliza plantillas HTML para definir la interfaz de usuario, lo que facilita la creación de aplicaciones.
 
-## Comandos de Vue.js
-
-### Crear un nuevo proyecto Vue
-
-```bash
-vue create nombre-del-proyecto
 
 ![Imagen nueva](https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/logo.png "vue.js")
-
-# Presentación sobre Vue.js
-
-## Introducción a Vue.js
-
