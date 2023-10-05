@@ -10,6 +10,8 @@
 
 ## Características Principales
 
+<p style="text-align: justify;">
+
 Vue.js tiene varias características clave:
 
 1. **Reactividad**: Vue.js permite que los datos en tu aplicación se actualicen de manera automática cuando cambian.
@@ -23,6 +25,8 @@ Vue.js tiene varias características clave:
 5. **Sistema de Plantillas**: Vue.js utiliza plantillas HTML para definir la interfaz de usuario, lo que facilita la creación de aplicaciones.
 
 ## Conclusion
+
+<p style="text-align: justify;">
 
 Vue.js es una opción poderosa y versátil para el desarrollo web.
 Su facilidad de uso y su comunidad activa hacen que sea una excelente elección para proyectos de cualquier tamaño.
