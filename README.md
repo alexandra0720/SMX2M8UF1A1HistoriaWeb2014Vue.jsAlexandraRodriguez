@@ -9,4 +9,4 @@ Fue creado por Evan You en febrero de 2014 mientras trabajaba en Google.
 
 En la actualidad la version mas reciente es la 3.3.4
 
-![Imagen nueva]( " ")
+![Imagen nueva](https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/logo.png "vue.js")
