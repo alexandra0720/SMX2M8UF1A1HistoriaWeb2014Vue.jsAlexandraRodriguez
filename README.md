@@ -14,7 +14,7 @@ Vue.js tiene varias características clave:
 
 2. **Componentes**: Puedes construir tu aplicación utilizando componentes reutilizables, lo que facilita la organización y el mantenimiento del código.
 
-3. **Directivas**: Vue.js proporciona directivas para manipular el DOM de manera declarativa.
+3. **Directivas**: Vue.js proporciona directivas para manipular el DOM  (Modelo de Objetos del Documento) de manera declarativa.
 
 4. **Enlace de Datos**: Puedes enlazar datos de forma bidireccional entre el modelo y la vista.
 
