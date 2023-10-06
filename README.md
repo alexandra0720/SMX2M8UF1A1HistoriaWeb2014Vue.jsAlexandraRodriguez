@@ -8,7 +8,7 @@
 
 - Fue creado por Evan You y se lanzó por primera vez el 11 de febrero 2014.
 
-<img src="https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/imagen.png" alt="Logo" width="300" height="200" />
+<img src="https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/imagen.png" alt="Logo" width="200" height="200" />
 
 ## Características Principales
 
