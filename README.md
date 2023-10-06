@@ -2,7 +2,7 @@
 
 ## Introducción a Vue.js
 
-- Vue.js es un framework progresivo de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
+- Vue.js es un conjunto de conceptos de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
 
 - Vue.js se ha vuelto muy popular en el desarrollo web debido a su simplicidad y flexibilidad.
 
