@@ -2,7 +2,7 @@
 
 ## Introducción a Vue.js
 
-- Vue.js es un conjunto de conceptos de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
+- Vue.js es un conjunto de conceptos _(estructura organizada)_ de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
 
 - Vue.js se ha vuelto muy popular en el desarrollo web debido a su simplicidad y flexibilidad.
 
@@ -16,7 +16,7 @@
 
 2. **Componentes**: Puedes construir tu aplicación utilizando componentes reutilizables, lo que facilita la organización y el mantenimiento del código.
 
-3. **Directivas**: Vue.js proporciona directivas para manipular el DOM  (Modelo de Objetos del Documento) de manera declarativa.
+3. **Directivas**: Vue.js proporciona directivas para manipular el DOM  _(Modelo de Objetos del Documento)_ de manera declarativa.
 
 4. **Enlace de Datos**: Puedes enlazar datos de forma bidireccional entre el modelo y la vista.
 
