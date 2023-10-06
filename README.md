@@ -29,4 +29,4 @@ Su facilidad de uso y su comunidad activa hacen que sea una excelente elección 
 
 ## Logo
 
-<img src="https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/logo.png" alt="Logo" width="300" height="200" />
+<img src="https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/logo.png" alt="Logo" width="200" height="200" />
