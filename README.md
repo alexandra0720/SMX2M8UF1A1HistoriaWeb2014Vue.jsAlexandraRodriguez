@@ -3,8 +3,12 @@
 ## Introducción a Vue.js
 
 - Vue.js es un framework progresivo de JavaScript utilizado para construir interfaces de usuario interactivas y reactivas.
-- Fue creado por Evan You y se lanzó por primera vez el 11 de febrero 2014.
+
 - Vue.js se ha vuelto muy popular en el desarrollo web debido a su simplicidad y flexibilidad.
+
+- Fue creado por Evan You y se lanzó por primera vez el 11 de febrero 2014.
+
+<img src="https://github.com/alexandra0720/SMX2M8UF1A1HistoriaWeb2014Vue.jsAlexandraRodriguez/blob/main/imagen.png" alt="Logo" width="300" height="200" />
 
 ## Características Principales
 
