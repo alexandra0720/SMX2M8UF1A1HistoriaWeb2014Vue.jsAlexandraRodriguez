@@ -24,7 +24,7 @@
 
 ## Conclusión
 
-Vue.js es una opción poderosa y versátil para el desarrollo web.
+- Vue.js es una opción poderosa y versátil para el desarrollo web.
 Su facilidad de uso y su comunidad activa hacen que sea una excelente elección para proyectos de cualquier tamaño.
 
 ## Logo
